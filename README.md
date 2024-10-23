@@ -3,7 +3,7 @@
 
 <div>
    <a href="https://github.com/Mlzinn">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caesar621&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/></a><br><br>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mlzinn&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/></a><br><br>
      
 </div>
 
